@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://c458-130-248-54-10.ngrok-free.app/
+    url: https://txw6tavv82.execute-api.us-east-1.amazonaws.com/helix-services-auth/fragment-ingestor/1.5.1/shon/bc55d7f479a43f0faef331425209f9744444aa496774aeb719e58fcd1dbe48ef/live
     type: markup
     suffix: ".json"
