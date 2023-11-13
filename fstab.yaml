@@ -1,2 +1,3 @@
 mountpoints:
   /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+  /shon: https://txw6tavv82.execute-api.us-east-1.amazonaws.com/helix-services/fragment-ingestor/1.5.1/shon/bc55d7f479a43f0faef331425209f9744444aa496774aeb719e58fcd1dbe48ef/live/shon
