@@ -1,2 +1,2 @@
 mountpoints:
-  /: https://franklin-content-bus-headless-openapi.s3.us-east-1.amazonaws.com/bc55d7f479a43f0faef331425209f9744444aa496774aeb719e58fcd1dbe48ef/live/_shon
+  /:  https://c458-130-248-54-10.ngrok-free.app
